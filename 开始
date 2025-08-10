@@ -1,0 +1,8 @@
+
+## 🛠️ 快速开始
+
+### 1. 安装依赖
+```bash
+git clone https://github.com/username/tj-study-plan.git
+cd tj-study-plan
+pip install -r requirements.txt  # 含自动化追踪依赖
