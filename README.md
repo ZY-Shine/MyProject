@@ -1,8 +1,6 @@
 # Learn
 help me learn knowledge
 # 📚 学习攻坚计划 - Balanced Edition
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 ![Last Commit](https://img.shields.io/github/last-commit/username/tj-study-plan)
 
@@ -12,3 +10,10 @@ help me learn knowledge
 - ⚡ **脉冲学习法**：理科90分钟深度聚焦
 - 🎮 **娱乐-学习兑换系统**：游戏化任务管理
 - 📊 **自动错题分析**：生成弱科热力图
+## 🛠️ 快速开始
+
+### 1. 安装依赖
+```bash
+git clone https://github.com/username/tj-study-plan.git
+cd tj-study-plan
+pip install -r requirements.txt  # 含自动化追踪依赖
